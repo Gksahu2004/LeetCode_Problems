@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,4 +14,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0009-palindrome-number) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
