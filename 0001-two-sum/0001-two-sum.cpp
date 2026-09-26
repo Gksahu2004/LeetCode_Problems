@@ -3,19 +3,21 @@ public:
     vector<int> twoSum(vector<int>& nums, int target) {
         vector <int> ans;
 
+        map <int, int> mpp;
+
         int size = nums.size();
 
-        for(int i = 0; i<size-1; i++){
+        for(int i = 0; i<size; i++){
+            int num = nums[i];
+            int rem_num = target - num;
 
-            for(int j = i+1; j<size; j++){
-
-                int sum = nums[i] + nums[j];
-
-                if(sum == target){
-                    ans.push_back(i);
-                    ans.push_back(j);
-                    break;
-                }
+            if(mpp.find(rem_num) != mpp.end()){
+                ans.push_back(i);
+                ans.push_back(mpp[rem_num]);
+                break;
+            }
+            else{
+                mpp[num] = i;
             }
         }
 
