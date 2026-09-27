@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        unordered_map <int, int> mpp;
+        map <int, int> mpp;
 
         int size = nums.size();
 
