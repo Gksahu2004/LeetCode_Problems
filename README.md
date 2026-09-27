@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1672-richest-customer-wealth) |
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
