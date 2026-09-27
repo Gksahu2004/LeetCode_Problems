@@ -1,21 +1,38 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        unordered_map <int, int> mpp;
-
         int size = nums.size();
 
-        for(int i = 0; i<size; i++){
+        int majority_elem;
+        int count = 0;
 
-            mpp[nums[i]]++;
+        for(int i = 0; i<size; i++){
+            if(count == 0){
+                majority_elem = nums[i];
+                count++;
+                i++;
+            }
+            if(i < size){
+                if(nums[i] != majority_elem){
+                    count--;
+                }
+                else{
+                    count++;
+                }
+            }
+            
         }
 
-        for(auto it : mpp){
+        count = 0;
 
-            if(it.second > size/2){
-                return it.first;
+        for(int i = 0;i<size; i++){
+            if(nums[i] == majority_elem){
+                count++;
             }
         }
-        return 0;
+        if(count >= size/2){
+            return majority_elem;
+        }
+        else return -1;
     }
 };
