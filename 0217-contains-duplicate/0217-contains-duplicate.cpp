@@ -2,6 +2,7 @@ class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
 
+        // MY BEST APPROACH TILL NOW
         sort(nums.begin(), nums.end());
 
         int size = nums.size();
