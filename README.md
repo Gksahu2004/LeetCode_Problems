@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,5 +77,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
