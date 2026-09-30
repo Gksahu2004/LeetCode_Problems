@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
