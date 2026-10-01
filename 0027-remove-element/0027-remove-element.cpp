@@ -4,9 +4,8 @@ public:
         int size = nums.size();
         int i = 0;
         int j = size - 1;
-        // int k = nums.size();
 
-        while(i <= j){
+        while(1){
             while(i < size && nums[i] != val){
                 i++;
             }
