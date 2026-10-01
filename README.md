@@ -20,6 +20,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
@@ -30,6 +31,7 @@
 | [0001-two-sum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -74,6 +77,7 @@
 | [0169-majority-element](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2733-neither-minimum-nor-maximum) |
 ## Bit Manipulation
 |  |
@@ -100,6 +104,7 @@
 | [0283-move-zeroes](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String Matching
 |  |
 | ------- |
