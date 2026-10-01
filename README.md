@@ -21,6 +21,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
@@ -45,6 +46,7 @@
 | [0035-search-insert-position](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## String
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1672-richest-customer-wealth) |
 ## Sorting
 |  |
