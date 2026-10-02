@@ -2,17 +2,12 @@ class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
 
-        unordered_set<int> st;
-        int vecsize = nums.size();
-        int setsize;
-        for(int i = 0; i<vecsize; i++){
-            st.insert(nums[i]);
+        map<int,int> mpp;
+        for(int i=0;i<nums.size();i++){
+            mpp[nums[i]]++;
+            if(mpp[nums[i]]>1) return true;
         }
-        setsize = st.size();
-        if(vecsize == setsize){
-            return false;
-        }
-        return true;
+        return false;
 
 
         // // MY BEST APPROACH TILL NOW
