@@ -11,6 +11,7 @@
 | [0118-pascals-triangle](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0217-contains-duplicate) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0137-single-number-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
