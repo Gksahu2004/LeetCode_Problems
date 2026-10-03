@@ -48,6 +48,7 @@
 | [0189-rotate-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
