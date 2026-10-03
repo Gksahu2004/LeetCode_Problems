@@ -67,6 +67,7 @@
 | [0344-reverse-string](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0709-to-lower-case) |
+| [1446-consecutive-characters](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1446-consecutive-characters) |
 ## Stack
 |  |
 | ------- |
