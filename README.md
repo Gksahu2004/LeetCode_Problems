@@ -150,4 +150,16 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0231-power-of-two) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
