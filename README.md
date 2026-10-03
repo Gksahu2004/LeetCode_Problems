@@ -64,6 +64,7 @@
 | [0242-valid-anagram](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0520-detect-capital) |
+| [0709-to-lower-case](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0709-to-lower-case) |
 ## Stack
 |  |
 | ------- |
