@@ -47,6 +47,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0509-fibonacci-number) |
@@ -150,6 +151,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0509-fibonacci-number) |
@@ -177,6 +179,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
