@@ -20,6 +20,7 @@
 | [0485-max-consecutive-ones](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -85,10 +86,12 @@
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1672-richest-customer-wealth) |
 ## Sorting
@@ -109,6 +112,7 @@
 | [0136-single-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0231-power-of-two) |
+| [0832-flipping-an-image](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0832-flipping-an-image) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,6 +133,7 @@
 | [0189-rotate-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0344-reverse-string) |
+| [0832-flipping-an-image](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
