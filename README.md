@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0119-pascals-triangle-ii) |
@@ -191,4 +192,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
