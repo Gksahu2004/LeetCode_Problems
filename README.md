@@ -37,6 +37,7 @@
 | [1672-richest-customer-wealth](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2733-neither-minimum-nor-maximum) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Hash Table
 |  |
 | ------- |
