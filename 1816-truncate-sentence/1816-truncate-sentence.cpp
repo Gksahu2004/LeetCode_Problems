@@ -4,13 +4,13 @@ public:
         vector<string> vec;
 
         stringstream ss(s);
-        string str;
+        string word;
 
-        while(getline(ss, str, ' ')){
-            vec.push_back(str);
+        while(getline(ss, word, ' ')){
+            vec.push_back(word);
         }
 
-        str = "";
+        string str = "";
         int i;
         for(i = 0; i<k-1; i++){
             str += (vec[i] + " ");
