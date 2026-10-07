@@ -42,6 +42,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3285-find-indices-of-stable-mountains) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0509-fibonacci-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
