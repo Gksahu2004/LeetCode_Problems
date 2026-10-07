@@ -4,16 +4,16 @@ public:
         unordered_set<int> st;
         vector<int> vec;
 
-        // int size = friends.size();
-        for(int i = 0; i<friends.size(); i++){
+        int size = friends.size();
+        for(int i = 0; i<size; i++){
             st.insert(friends[i]);
         }
-
+        
         for(int i = 0; i<order.size(); i++){
-            // if(size == 0) break;
+            if(size == 0) break;
             if(st.find(order[i]) != st.end()){
                 vec.push_back(order[i]);
-                // size--;
+                size--;
             }
         }
 
