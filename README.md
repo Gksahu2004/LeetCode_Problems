@@ -43,6 +43,7 @@
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3285-find-indices-of-stable-mountains) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3668-restore-finishing-order](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
 | ------- |
