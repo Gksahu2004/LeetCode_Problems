@@ -40,6 +40,7 @@
 | [2733-neither-minimum-nor-maximum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2942-find-words-containing-character](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3285-find-indices-of-stable-mountains) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -86,6 +87,7 @@
 | [0520-detect-capital](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0709-to-lower-case) |
 | [1446-consecutive-characters](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1446-consecutive-characters) |
+| [2942-find-words-containing-character](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2942-find-words-containing-character) |
 ## Stack
 |  |
 | ------- |
