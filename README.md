@@ -51,6 +51,7 @@
 | [3285-find-indices-of-stable-mountains](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3285-find-indices-of-stable-mountains) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3668-restore-finishing-order) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -127,6 +128,7 @@
 | [0832-flipping-an-image](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1672-richest-customer-wealth) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sorting
 |  |
 | ------- |
@@ -234,4 +236,8 @@
 | ------- |
 | [0046-permutations](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0047-permutations-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
