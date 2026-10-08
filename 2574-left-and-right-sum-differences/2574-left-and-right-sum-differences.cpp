@@ -15,6 +15,7 @@ public:
             ans.push_back(abs(sum - leftsum[i+1] - leftsum[i]));
         }
         ans.push_back(leftsum[size-1]);
+        
         return ans;
     }
 };
