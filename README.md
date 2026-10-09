@@ -43,6 +43,7 @@
 | [1929-concatenation-of-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -82,6 +83,7 @@
 | [0728-self-dividing-numbers](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3895-count-digit-appearances) |
