@@ -44,6 +44,7 @@
 | [1816-truncate-sentence](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2363-merge-similar-items](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2363-merge-similar-items) |
@@ -116,6 +117,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2942-find-words-containing-character](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2942-find-words-containing-character) |
@@ -199,6 +201,7 @@
 | [0905-sort-array-by-parity](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String Matching
 |  |
