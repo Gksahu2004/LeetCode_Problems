@@ -125,6 +125,7 @@
 | [3110-score-of-a-string](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -208,6 +209,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3794-reverse-string-prefix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3794-reverse-string-prefix) |
 ## String Matching
 |  |
 | ------- |
