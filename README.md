@@ -121,6 +121,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2942-find-words-containing-character](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2942-find-words-containing-character) |
+| [3110-score-of-a-string](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3110-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
