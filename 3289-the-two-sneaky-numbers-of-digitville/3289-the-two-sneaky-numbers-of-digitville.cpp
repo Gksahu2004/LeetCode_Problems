@@ -5,8 +5,11 @@ public:
         vector<int> vec;
         for(int i = 0; i<nums.size(); i++){
             mpp[nums[i]]++;
-            if(mpp[nums[i]] == 2){
-                vec.push_back(nums[i]);
+        }
+
+        for(auto it: mpp){
+            if(it.second == 2){
+                vec.push_back(it.first);
             }
         }
 
