@@ -62,6 +62,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -157,6 +158,7 @@
 | [1929-concatenation-of-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3498-reverse-degree-of-a-string) |
+| [3701-compute-alternating-sum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
