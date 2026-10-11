@@ -61,6 +61,7 @@
 | [3285-find-indices-of-stable-mountains](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3467-transform-array-by-parity](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3701-compute-alternating-sum) |
@@ -186,6 +187,7 @@
 | [2363-merge-similar-items](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2363-merge-similar-items) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3467-transform-array-by-parity](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3467-transform-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
+| [3467-transform-array-by-parity](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3467-transform-array-by-parity) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
