@@ -87,6 +87,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2363-merge-similar-items](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2363-merge-similar-items) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -134,6 +135,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1844-replace-all-digits-with-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
