@@ -95,6 +95,7 @@
 | [3668-restore-finishing-order](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3945-digit-frequency-score](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3895-count-digit-appearances) |
+| [3945-digit-frequency-score](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
