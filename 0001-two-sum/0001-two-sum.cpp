@@ -3,11 +3,11 @@ public:
     vector<int> twoSum(vector<int>& nums, int target) {
         vector <int> ans;
 
-        map <int, int> mpp;
+        unordered_map <int, int> mpp;
 
-        int size = nums.size();
+        // int size = nums.size();
 
-        for(int i = 0; i<size; i++){
+        for(int i = 0; i<nums.size(); i++){
             int num = nums[i];
             int rem_num = target - num;
 
