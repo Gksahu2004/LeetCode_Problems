@@ -58,6 +58,7 @@
 | [2363-merge-similar-items](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2363-merge-similar-items) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2574-left-and-right-sum-differences) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -96,6 +97,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2363-merge-similar-items](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2363-merge-similar-items) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -223,6 +225,7 @@
 | [0137-single-number-ii](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0832-flipping-an-image](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0832-flipping-an-image) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
