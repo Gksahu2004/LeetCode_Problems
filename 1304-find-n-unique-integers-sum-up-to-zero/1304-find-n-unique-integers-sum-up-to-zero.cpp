@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<int> sumZero(int n) {
-
         vector<int> vec;
         int start = -(n/2);
         while(start != 0){
