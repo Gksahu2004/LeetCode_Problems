@@ -1,8 +1,9 @@
 class Solution {
 public:
     int findClosest(int x, int y, int z) {
-        if(abs(x-z) < abs(y-z)) return 1;
-        else if(abs(x-z) > abs(y-z)) return 2;
+        int xz = abs(x-z), yz = abs(y-z);
+        if(xz < yz) return 1;
+        else if(xz > yz) return 2;
         else return 0;
     }
 };
