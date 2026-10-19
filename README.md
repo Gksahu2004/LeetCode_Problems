@@ -128,6 +128,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
+| [2413-smallest-even-multiple](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2413-smallest-even-multiple) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2544-alternating-digit-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -360,5 +361,6 @@
 ## Number Theory
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
