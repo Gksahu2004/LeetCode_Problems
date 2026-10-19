@@ -5,6 +5,7 @@ public:
         string str = to_string(n);
         reverse(str.begin(), str.begin() + str.length());
         int num = stoi(str);
+        
         return abs(n - num);
     }
 };
