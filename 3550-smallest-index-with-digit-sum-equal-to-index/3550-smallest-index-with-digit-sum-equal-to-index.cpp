@@ -1,11 +1,13 @@
 class Solution {
 public:
     int smallestIndex(vector<int>& nums) {
+        int sum;
         for(int i = 0; i<nums.size(); i++){
-            int sum = 0;
-            while(nums[i] > 0){
-                sum += nums[i] % 10;
-                nums[i] /= 10;
+            sum = 0;
+            int n = nums[i];
+            while(n > 0){
+                sum += n % 10;
+                n /= 10;
             }
             if(sum == i) return i;
         }
