@@ -56,6 +56,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -132,6 +133,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2413-smallest-even-multiple) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -176,6 +178,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2315-count-asterisks](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2315-count-asterisks) |
 | [2418-sort-the-people](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2418-sort-the-people) |
@@ -219,6 +222,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1672-richest-customer-wealth) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sorting
 |  |
