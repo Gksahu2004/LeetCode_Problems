@@ -154,6 +154,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3516-find-closest-person) |
+| [3536-maximum-product-of-two-digits](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3783-mirror-distance-of-an-integer) |
@@ -257,6 +258,7 @@
 | [2733-neither-minimum-nor-maximum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3467-transform-array-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
