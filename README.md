@@ -77,6 +77,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3285-find-indices-of-stable-mountains) |
@@ -149,6 +150,7 @@
 | [2544-alternating-digit-sum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2544-alternating-digit-sum) |
 | [2843-count-symmetric-integers](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2843-count-symmetric-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
