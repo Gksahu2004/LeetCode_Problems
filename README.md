@@ -169,6 +169,7 @@
 | [3895-count-digit-appearances](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3945-digit-frequency-score) |
+| [3959-check-good-integer](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3959-check-good-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -239,6 +240,7 @@
 | [3701-compute-alternating-sum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3925-concatenate-array-with-reverse) |
+| [3959-check-good-integer](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3959-check-good-integer) |
 ## Matrix
 |  |
 | ------- |
