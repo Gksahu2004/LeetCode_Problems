@@ -165,6 +165,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3783-mirror-distance-of-an-integer) |
+| [3894-traffic-signal-color](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3945-digit-frequency-score) |
@@ -208,6 +209,7 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3794-reverse-string-prefix) |
+| [3894-traffic-signal-color](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3894-traffic-signal-color) |
 ## Stack
 |  |
 | ------- |
@@ -235,6 +237,7 @@
 | [2221-find-triangular-sum-of-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3701-compute-alternating-sum) |
+| [3894-traffic-signal-color](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
