@@ -150,6 +150,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2396-strictly-palindromic-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -330,6 +331,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3794-reverse-string-prefix) |
 ## String Matching
@@ -435,4 +437,8 @@
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
