@@ -173,6 +173,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3663-find-the-least-frequent-digit) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3895-count-digit-appearances) |
@@ -360,6 +361,7 @@
 | [0118-pascals-triangle](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0509-fibonacci-number) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -414,6 +416,7 @@
 | [1534-count-good-triplets](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1534-count-good-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2843-count-symmetric-integers) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
