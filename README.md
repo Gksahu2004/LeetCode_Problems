@@ -147,6 +147,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2119-a-number-after-a-double-reversal) |
