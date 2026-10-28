@@ -82,6 +82,7 @@
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -169,6 +170,7 @@
 | [3099-harshad-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -254,6 +256,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3894-traffic-signal-color) |
@@ -399,6 +402,7 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
 |  |
 | ------- |
