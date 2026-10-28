@@ -139,6 +139,7 @@
 | [0258-add-digits](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0728-self-dividing-numbers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1344-angle-between-hands-of-a-clock) |
