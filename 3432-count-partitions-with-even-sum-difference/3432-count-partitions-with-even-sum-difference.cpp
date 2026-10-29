@@ -12,6 +12,7 @@ public:
             if((totalsum - sum) % 2 == 0){
                 count++;
             }
+            
             sum += nums[i];
             totalsum -= nums[i];
         }
