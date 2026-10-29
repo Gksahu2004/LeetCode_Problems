@@ -244,6 +244,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2000-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -357,6 +358,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2000-reverse-prefix-of-word](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -470,6 +472,7 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0237-delete-node-in-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
