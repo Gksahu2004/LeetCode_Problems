@@ -149,6 +149,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1688-count-of-matches-in-tournament](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2119-a-number-after-a-double-reversal) |
@@ -251,6 +252,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0832-flipping-an-image) |
+| [1688-count-of-matches-in-tournament](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
