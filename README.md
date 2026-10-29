@@ -145,6 +145,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1323-maximum-69-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
@@ -304,6 +305,7 @@
 | [0137-single-number-ii](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0832-flipping-an-image](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0832-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
