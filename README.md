@@ -267,6 +267,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2169-count-operations-to-obtain-zero) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3498-reverse-degree-of-a-string) |
@@ -468,6 +469,7 @@
 ## Linked List
 |  |
 | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
 |  |
