@@ -469,6 +469,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
