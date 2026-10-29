@@ -15,8 +15,7 @@ public:
         while(q->next != NULL){
             head = head->next;
             q = q->next;
-            ListNode* temp = q;
-            if(temp->next == NULL){
+            if(q->next == NULL){
                 return head;
             }
             q = q->next;
