@@ -56,6 +56,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -116,6 +117,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2363-merge-similar-items](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2363-merge-similar-items) |
 | [2418-sort-the-people](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2418-sort-the-people) |
@@ -333,6 +335,7 @@
 | [1512-number-of-good-pairs](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1748-sum-of-unique-elements) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3467-transform-array-by-parity) |
