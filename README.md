@@ -112,6 +112,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -217,6 +218,7 @@
 | [0520-detect-capital](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0771-jewels-and-stones) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1446-consecutive-characters](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1446-consecutive-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -332,6 +334,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0169-majority-element) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1748-sum-of-unique-elements) |
