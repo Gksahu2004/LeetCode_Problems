@@ -224,6 +224,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1446-consecutive-characters](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1446-consecutive-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1678-goal-parser-interpretation](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1773-count-items-matching-a-rule) |
