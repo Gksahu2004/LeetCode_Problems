@@ -36,6 +36,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1470-shuffle-the-array) |
@@ -220,6 +221,7 @@
 | [0704-binary-search](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -331,6 +333,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -394,6 +397,7 @@
 | [0905-sort-array-by-parity](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
