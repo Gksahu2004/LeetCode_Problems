@@ -238,6 +238,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1768-merge-strings-alternately](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1768-merge-strings-alternately) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1816-truncate-sentence) |
@@ -393,6 +394,7 @@
 | [0905-sort-array-by-parity](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1768-merge-strings-alternately](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
