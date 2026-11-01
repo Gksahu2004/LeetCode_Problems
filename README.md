@@ -110,6 +110,7 @@
 | [3895-count-digit-appearances](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3925-concatenate-array-with-reverse) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Hash Table
 |  |
 | ------- |
@@ -348,6 +349,7 @@
 | [3467-transform-array-by-parity](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3731-find-missing-elements) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -410,6 +412,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3794-reverse-string-prefix) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## String Matching
 |  |
 | ------- |
@@ -491,6 +494,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2864-maximum-odd-binary-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2864-maximum-odd-binary-number) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Enumeration
 |  |
 | ------- |
