@@ -57,6 +57,7 @@
 | [1816-truncate-sentence](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1816-truncate-sentence) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1833-maximum-ice-cream-bars](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -173,6 +174,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -363,6 +365,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -481,6 +484,7 @@
 | ------- |
 | [0046-permutations](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0047-permutations-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Graph Theory
 |  |
 | ------- |
@@ -502,6 +506,7 @@
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1534-count-good-triplets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2843-count-symmetric-integers) |
@@ -518,6 +523,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Euclidean Algorithm
 |  |
