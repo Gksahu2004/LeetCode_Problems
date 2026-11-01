@@ -1,0 +1,19 @@
+class Solution {
+public:
+    int arithmeticTriplets(vector<int>& nums, int diff) {
+        int size = nums.size();
+
+        int count = 0;
+        for(int i = 0; i<size-2; i++){
+            for(int j = i+1; j<size-1; j++){
+                for(int k = j+1; k<size; k++){
+                    if((nums[j] - nums[i] == diff) && (nums[k] - nums[j] == diff)){
+                        count++;
+                    }
+                }
+            }
+        }
+
+        return count;
+    }
+};
