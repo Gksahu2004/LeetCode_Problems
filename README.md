@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0118-pascals-triangle) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0189-rotate-array) |
@@ -300,6 +302,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1572-matrix-diagonal-sum) |
