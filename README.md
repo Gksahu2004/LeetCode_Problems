@@ -83,6 +83,7 @@
 | [2942-find-words-containing-character](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2965-find-missing-and-repeated-values) |
+| [2974-minimum-number-game](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -292,6 +293,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2974-minimum-number-game](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -333,6 +335,7 @@
 | [2418-sort-the-people](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2418-sort-the-people) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2974-minimum-number-game](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3731-find-missing-elements) |
@@ -453,6 +456,7 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
 |  |
