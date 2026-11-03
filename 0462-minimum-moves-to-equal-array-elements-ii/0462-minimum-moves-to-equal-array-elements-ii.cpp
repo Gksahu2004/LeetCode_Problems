@@ -12,7 +12,6 @@ public:
         // sum = ceil(sum/size);
 
         int medianval = nums[size/2];
-
         int ans = 0;
         for(int i = 0; i<size; i++){
             ans += abs(medianval - nums[i]);
