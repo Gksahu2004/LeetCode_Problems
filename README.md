@@ -106,6 +106,7 @@
 | [3285-find-indices-of-stable-mountains](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -307,6 +308,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2485-find-the-pivot-integer](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2574-left-and-right-sum-differences) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Simulation
 |  |
