@@ -125,6 +125,7 @@
 | [3898-find-the-degree-of-each-vertex](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3925-concatenate-array-with-reverse) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/4014-minimum-total-price-after-applying-discounts) |
+| [4020-elevator-requests-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -336,6 +337,7 @@
 | [3894-traffic-signal-color](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3925-concatenate-array-with-reverse) |
 | [3959-check-good-integer](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3959-check-good-integer) |
+| [4020-elevator-requests-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/4020-elevator-requests-i) |
 ## Matrix
 |  |
 | ------- |
