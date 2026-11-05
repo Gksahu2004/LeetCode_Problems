@@ -31,6 +31,7 @@
 | [0905-sort-array-by-parity](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -174,6 +175,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0728-self-dividing-numbers) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -575,6 +577,7 @@
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Game Theory
 |  |
