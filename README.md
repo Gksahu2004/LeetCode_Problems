@@ -27,6 +27,7 @@
 | [0485-max-consecutive-ones](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0704-binary-search) |
+| [0804-unique-morse-code-words](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0941-valid-mountain-array) |
@@ -142,6 +143,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0804-unique-morse-code-words) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -262,6 +264,7 @@
 | [0520-detect-capital](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0804-unique-morse-code-words) |
 | [1021-remove-outermost-parentheses](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1108-defanging-an-ip-address) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
