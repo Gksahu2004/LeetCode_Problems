@@ -105,6 +105,7 @@
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
