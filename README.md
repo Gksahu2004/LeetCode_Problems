@@ -25,6 +25,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0561-array-partition) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0704-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0804-unique-morse-code-words) |
@@ -377,6 +378,7 @@
 | [0242-valid-anagram](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -496,6 +498,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -546,6 +549,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0561-array-partition) |
 | [1323-maximum-69-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
