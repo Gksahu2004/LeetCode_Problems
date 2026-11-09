@@ -33,6 +33,7 @@
 | [0905-sort-array-by-parity](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1051-height-checker) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -381,6 +382,7 @@
 | [0561-array-partition](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -499,6 +501,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -628,4 +631,8 @@
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
