@@ -92,6 +92,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -164,6 +165,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -470,6 +472,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2396-strictly-palindromic-number) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
