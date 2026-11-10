@@ -140,6 +140,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3917-count-indices-with-opposite-parity](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3917-count-indices-with-opposite-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3925-concatenate-array-with-reverse) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4020-elevator-requests-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/4020-elevator-requests-i) |
