@@ -30,6 +30,7 @@
 | [0704-binary-search](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0704-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0941-valid-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -359,6 +360,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -388,6 +390,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1572-matrix-diagonal-sum) |
