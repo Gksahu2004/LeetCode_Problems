@@ -32,6 +32,7 @@
 | [0832-flipping-an-image](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0941-valid-mountain-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1207-unique-number-of-occurrences) |
@@ -163,6 +164,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0804-unique-morse-code-words) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -671,4 +673,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1051-height-checker) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
