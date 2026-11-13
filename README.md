@@ -81,6 +81,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2079-watering-plants](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2079-watering-plants) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -370,6 +371,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2079-watering-plants](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2169-count-operations-to-obtain-zero) |
