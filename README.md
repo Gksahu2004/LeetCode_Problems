@@ -118,6 +118,7 @@
 | [2942-find-words-containing-character](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2965-find-missing-and-repeated-values) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2974-minimum-number-game](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -436,6 +437,7 @@
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2974-minimum-number-game](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -606,6 +608,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2864-maximum-odd-binary-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2864-maximum-odd-binary-number) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Enumeration
 |  |
