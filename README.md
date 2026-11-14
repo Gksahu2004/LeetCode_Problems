@@ -197,6 +197,7 @@
 | [2956-find-common-elements-between-two-arrays](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -332,6 +333,7 @@
 | [2864-maximum-odd-binary-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3110-score-of-a-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3248-snake-in-matrix) |
 | [3280-convert-date-to-binary](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3280-convert-date-to-binary) |
