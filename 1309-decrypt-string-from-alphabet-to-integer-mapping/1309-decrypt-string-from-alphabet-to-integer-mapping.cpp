@@ -1,7 +1,6 @@
 class Solution {
 public:
     string freqAlphabets(string s) {
-        stack<int> stk;
         int i = s.size()-1;
         string str = "";
         while(i >= 0){
