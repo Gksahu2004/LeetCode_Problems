@@ -183,6 +183,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -322,6 +323,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1844-replace-all-digits-with-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -492,6 +494,7 @@
 | [1512-number-of-good-pairs](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
