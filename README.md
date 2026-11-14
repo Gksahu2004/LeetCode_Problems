@@ -334,6 +334,7 @@
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2864-maximum-odd-binary-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/2942-find-words-containing-character) |
+| [3019-number-of-changing-keys](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/3174-clear-digits) |
