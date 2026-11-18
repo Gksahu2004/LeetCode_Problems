@@ -1,0 +1,18 @@
+class Solution {
+public:
+    int smallestNumber(int n, int t) {
+        while(1){
+            int k = n;
+            int mul = 1;
+            while(k > 0){
+                mul *= k%10;
+                k /= 10;
+            }
+            if(mul % t == 0){
+                return n;
+            }
+            n++;
+        }
+        
+    }
+};
