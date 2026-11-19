@@ -223,6 +223,7 @@
 | [0189-rotate-array](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0728-self-dividing-numbers) |
@@ -306,6 +307,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0771-jewels-and-stones) |
@@ -389,6 +391,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/Gksahu2004/LeetCode_Problems/tree/master/1688-count-of-matches-in-tournament) |
